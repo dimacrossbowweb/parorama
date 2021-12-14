@@ -1,0 +1,28 @@
+{
+  "name": "kontora",
+  "version": "1.0.0",
+  "private": true,
+  "license": "",
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.3.5",
+    "cookie-universal-nuxt": "^2.1.5",
+    "core-js": "^3.15.1",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.6",
+    "nuxt": "^2.15.7",
+    "three": "^0.135.0",
+    "vue-simplemde": "^2.0.0",
+    "vuedraggable": "^2.24.3",
+    "vuetify": "^2.5.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.1"
+  }
+}
